@@ -1,7 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Préparation VM #CVE-2021-40444
 ---
+
+Le but de ce premier blog est de montrer les différentes étapes à la préparation de la VM pour l'analyse statique et dynamique
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
