@@ -13,6 +13,6 @@ Pour l'analyse j'ai mis en place une VM Windows 7 avec comme outils :
 <ul>
 <li>IDA</li>
 <li>CFF explorer</li>
-<li>SYSinternal SUITe
-
+<li>Sysinternalsuite</li>
+<li> Suite OFFICE
 <ul>
